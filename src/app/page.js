@@ -2,9 +2,9 @@
 export default function Home() {
   return (
    
-      <main className="flex flex-col min-h-screen items-center">
+      <div>
         <h>This is Home Page</h>
-      </main>
+      </div>
       
   
   );
